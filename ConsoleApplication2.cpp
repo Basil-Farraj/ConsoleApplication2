@@ -16,13 +16,13 @@ int main()
     cout << "Basil Farraj";
 
     cout << "Basil Farraj";
-    cout << "Basil Farraj";
-    cout << "Basil Farraj";
-    cout << "Basil Farraj";
-    cout << "Basil Farraj";
-    cout << "Basil Farraj";
-    cout << "Basil Farraj";
-    cout << "Basil Farraj";
+    cout << "Problem Solving";
+    cout << "Problem Solving";
+    cout << "Problem Solving";
+    cout << "Problem Solving";
+    cout << "Problem Solving";
+    cout << "Problem Solving";
+    cout << "Problem Solving";
     cout << "Basil Farraj";
     cout << "Basil Farraj";
     cout << "Basil Farraj";
